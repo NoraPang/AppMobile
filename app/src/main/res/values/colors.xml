@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="greenBg">#9FBC5B</color>
+
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="color">@android:color/white</color>
+
+    <color name="back">#dedede</color>
+    <color name="bgApp">#fafafa</color>
+
+    <color name="colorForn">#000000</color>
+
+    <color name="colorb">#3F51B5</color>
+    <color name="blue">#303F9F</color>
+    <color name="colorAccent2">#e7fcd2</color>
+    <color name="colorAccent3">#acfc7a</color>
+
+</resources>

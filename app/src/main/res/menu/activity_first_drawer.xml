@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <item
+        android:id="@+id/about_Us"
+        android:icon="@drawable/ic_person_24dp"
+        android:title="เกี่ยวกับเรา"
+        />
+    <item
+        android:id="@+id/course"
+        android:icon="@drawable/ic_library_books_24dp"
+        android:title="หลักสูตร" />
+    <item
+        android:id="@+id/how_tow"
+        android:icon="@drawable/ic_help_outline_24dp"
+        android:title="วิธีการใช้งาน" />
+    <item
+        android:id="@+id/question"
+        android:icon="@drawable/ic_question_answer_24dp"
+        android:title="ถาม-ตอบ" />
+
+    <item
+        android:id="@+id/contact_us"
+        android:icon="@drawable/ic_contact_mail_24dp"
+        android:title="ติดต่อเรา" />
+
+    <item
+        android:id="@+id/grub_contect"
+        android:icon="@drawable/ic_group_work_black_24dp"
+        android:title="หน่วยงานที่เกี่ยวข้อง" />
+
+</menu>
